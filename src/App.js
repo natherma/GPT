@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar,Brand,Cat } from "./components";
-import {Blog,Features,Footer,Header,Whatgpt,Possibility} from './Containers'
+import {Features,Footer,Header,Whatgpt,Possibility} from './Containers'
 import './App.css'
 
 function App() 
@@ -16,10 +16,9 @@ function App()
              <Features/>
              <Possibility/>
              <Cat/>
-             <Blog/>
              <Footer/>
         </div>
     )
 }
 
-export default App
+export default App  

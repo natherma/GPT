@@ -10,7 +10,7 @@ import Article from '../../components/article/Article'
 export default function Blog() {
   return (
     <div className='gpt__blog section_padding'>
-      <div className='gpt__blog heading'>
+      <div className='gpt__blog-heading'>
       <h1 className="gradient_text">A lot is happening, <br /> We are blogging about it.</h1>
       </div>
       <div className='gpt__blog-container'>
