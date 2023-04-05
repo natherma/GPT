@@ -1,0 +1,3 @@
+[submodule "GPT3"]
+	path = GPT3
+	url = https://github.com/natherma/GPT3.git
